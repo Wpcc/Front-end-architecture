@@ -1,21 +1,16 @@
 
 # Java学习
 ## Java介绍
-- Java SE(Java standard Edition)：标准版
-  - Java技术的核心和基础
-- Java EE(Java Enterprise Edition)：企业版
-  - 企业级应用开发的一套解决方案
-- Java ME(Java Micro Edition)：小型版
-  - 针对移动设备应用的解决方案
+- Java SE(Java standard Edition) - 标准版 - Java技术的核心和基础
+- Java EE(Java Enterprise Edition) - 企业版 - 企业级应用开发的一套解决方案
+- Java ME(Java Micro Edition)：小型版 - 针对移动设备应用的解决方案
 
 ## Java使用
 
-Java语言的产品是JDK（Java Development Kit：Java开发者工具包），必须按照JDK才能使用Java语言。
+Java语言的产品是JDK（Java Development Kit：Java开发者工具包），必须安装JDK才能使用Java语言。
 
 - 2014年JDK（8.0.LTS）
-  - yyds
-- 2021年9月14日JDK（17.0.LTS）
-  - 学习版
+- 2021年9月14日JDK（17.0.LTS） - 学习版
 
 **下载：**
 
